@@ -1,4 +1,8 @@
 _repo: Earthwork-out-of-Tuscany-Being-Impressions-and-Translations-of-Maurice-Hewlett_8858
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Hewlett, Maurice
@@ -9,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/1864
     wikipedia: http://en.wikipedia.org/wiki/Maurice_Hewlett
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/8858#Earthwork-out-of-Tuscany-Being-Impressions-and-Translations-of-Maurice-Hewlett
 gutenberg_issued: '2005-09-01'
 gutenberg_type: Text
 identifiers:
